@@ -15,3 +15,4 @@ const data = {
 };
 
 export default data;
+export { products };
